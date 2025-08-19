@@ -84,3 +84,23 @@ Example Looker Studio Dashboard:
   - Looker Studio  
 
 ---
+
+## ✅ Key Learnings
+
+- Orchestration of ETL/ELT workflows with Airflow
+
+- Scalable data processing with BigQuery
+
+- Managing restricted access via reporting views
+
+- Building dashboards directly from BigQuery datasets
+
+---
+
+## 📌 Future Improvements
+
+- Make DAG fully dynamic (discover countries instead of hardcoding list)
+
+- Automate pipeline trigger when a new file arrives in GCS
+
+- Integrate email alerts to country representatives with links to dashboards
