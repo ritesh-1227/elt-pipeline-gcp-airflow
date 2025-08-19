@@ -66,7 +66,7 @@ The pipeline extracts global health data from **Google Cloud Storage (GCS)**, lo
 
 Example Looker Studio Dashboard:
 
-![Looker Report](assets/Indian_Health_&_Disease_Report.pdf)
+![Looker Report](assets/Sample_Looker_Report.png)
 
 ---
 
