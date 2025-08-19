@@ -84,10 +84,3 @@ Example Looker Studio Dashboard:
   - Looker Studio  
 
 ---
-
-## 📦 Setup Instructions
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/<your-username>/elt-pipeline-gcp-airflow.git
-   cd elt-pipeline-gcp-airflow
